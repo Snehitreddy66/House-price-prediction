@@ -1,7 +1,7 @@
 # House-price-prediction
 predicting the Boston House price 
 
-** Used various ML algorithms like Linear regression,Decision Tree Regressor and Random Forest Regressor **
+- Used various ML algorithms like Linear regression,Decision Tree Regressor and Random Forest Regressor.
 
 
 
